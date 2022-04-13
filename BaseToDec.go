@@ -1,4 +1,4 @@
-package basetodec
+package myrepo
 
 
 import (
