@@ -1,4 +1,4 @@
-package dectobase
+package myrepo
 
 import (
 
